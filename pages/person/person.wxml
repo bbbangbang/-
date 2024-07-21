@@ -1,2 +1,4 @@
 <!--pages/person/person.wxml-->
 <text>pages/person/person.wxml</text>
+
+<view class="box">123</view>
