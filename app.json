@@ -31,7 +31,9 @@
       },
       {
         "pagePath": "pages/tools/tools",
-        "text": "工具"
+        "text": "工具",
+        "iconPath": "images/工具未选中.png",
+        "selectedIconPath": "images/工具选中.png"
       }
     ]
   },
