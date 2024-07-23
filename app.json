@@ -3,7 +3,8 @@
     "pages/index/index",
     "pages/logs/logs",
     "pages/person/person",
-    "pages/search/search"
+    "pages/search/search",
+    "pages/tools/tools"
   ],
   "window": {
     "navigationBarTextStyle": "black",
@@ -27,6 +28,10 @@
       {
         "pagePath": "pages/person/person",
         "text": "我的"
+      },
+      {
+        "pagePath": "pages/tools/tools",
+        "text": "工具"
       }
     ]
   },
