@@ -69,7 +69,7 @@ Page({
       data: ad,
       success(res){
         wx.showToast({
-          title: 'asdw',
+          title: '复制链接成功',
         })
       }
     })
