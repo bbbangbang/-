@@ -62,5 +62,16 @@ Page({
    */
   onShareAppMessage() {
 
+  },
+  clickCopy:function(e){
+    let ad = e.currentTarget.dataset.adress
+    wx.setClipboardData({
+      data: ad,
+      success(res){
+        wx.showToast({
+          title: 'asdw',
+        })
+      }
+    })
   }
 })
