@@ -64,7 +64,7 @@ Page({
 
   },
   clickCopy:function(e){
-    let ad = e.currentTarget.dataset.adress
+    let ad = e.currentTarget.dataset.address
     wx.setClipboardData({
       data: ad,
       success(res){
