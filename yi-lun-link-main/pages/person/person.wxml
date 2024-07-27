@@ -1,0 +1,5 @@
+<!--pages/person/person.wxml-->
+<view class="topInformation">
+  <image class="user" src="../../images/unlogin.png" style="position: relative; left: -22rpx; top: 22rpx"></image>
+  <text style="position: relative; left: -44rpx; top: -15rpx;color: black;">未登录</text>
+</view>

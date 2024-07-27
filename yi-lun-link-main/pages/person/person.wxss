@@ -1,0 +1,12 @@
+/* pages/person/person.wxss */
+
+.topInformation{
+  background-color:#95FEDD;
+  height: 200rpx;
+}
+
+.user{
+  padding: 40rpx 40rpx 10rpx 90rpx;
+  height: 90rpx;
+  width: 15%;
+}
