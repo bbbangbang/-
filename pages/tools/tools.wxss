@@ -1,1 +1,22 @@
-
+/* pages/mine/mine.wxss */
+.t0{
+	margin: 50rpx 320rpx;
+}
+.t1{
+	margin: 35rpx 235rpx;
+}
+.t2{
+	margin: 35rpx 250rpx;
+}
+.t3{
+	margin: 35rpx 230rpx;
+}
+.t4{
+	margin: 35rpx 220rpx;
+}
+.t5{
+	margin: 35rpx 230rpx;
+}
+.t6{
+	margin: 35rpx 230rpx;
+}
