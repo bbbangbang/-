@@ -1,5 +1,6 @@
 <!--pages/soutu/soutu.wxml-->
+<image mode="widthFix" src="../../images/图库.png"></image>
 <text>图库工具
-91搜图： https://www.91sotu.com/?date=1721976131
-提供一站式快速搜索图像服务，丰富的图片素材
+unsplash： https://unsplash.com
+世界上最慷慨的贡献者社区为您带来了600多万张免费高分辨率照片和插图。
 </text>

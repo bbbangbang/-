@@ -1,3 +1,13 @@
 <!--pages/shuju/shuju.wxml-->
-<text>数据网站
-金十数据：https://www.jin10.com/</text>
+<image mode="widthFix" src="../../images/国家统计局.png"></image>
+<text>国家统计局：https://www.stats.gov.cn
+宏观数据可查
+</text>
+<image mode="widthFix" src="../../images/德勤.png"></image>
+<text>德勤：https://www2.deloitte.com/cn/zh.html
+中观数据可查
+</text>
+<image mode="widthFix" src="../../images/百度指数.png"></image>
+<text>百度指数：https://index.baidu.com/v2/index.html#/
+微观数据可查
+</text>

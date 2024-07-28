@@ -1,4 +1,4 @@
-// pages/siwei/siwei.js
+// pages/shitu/zhitu.js
 Page({
 
   /**

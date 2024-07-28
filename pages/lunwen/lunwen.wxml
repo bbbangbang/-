@@ -1,4 +1,6 @@
 <!--pages/lunwen/lunwen.wxml-->
-<text>论文制作
-	大以论文：https://dayipaper.com/express/
-免费（有每日签到任务相当于免费）辅助写论文，输入学校可生成对应的框架格式，学生可在此补充，最后导出格式标准的论文</text>
+<image mode="widthFix" src="../../images/论文网站.png"></image>
+<text>论文校对
+	i校对：https://www.ijiaodui.com/#page1
+免费校对论文，可检查字词错误，常识错误，敏感词过滤，政治性差错，格式错误等等，实乃一大神器
+</text>
