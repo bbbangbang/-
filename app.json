@@ -10,7 +10,12 @@
     "pages/jisuan/jisuan",
     "pages/lunwen/lunwen",
     "pages/shuju/shuju",
-    "pages/pdf/pdf"
+    "pages/pdf/pdf",
+    "pages/other/other",
+    "pages/ligong/ligong",
+    "pages/yixue/yixue",
+    "pages/zhexue/zhexue",
+    "pages/yanshen/yanshen"
   ],
   "window": {
     "navigationBarTextStyle": "black",
@@ -34,18 +39,18 @@
         "text": "搜索",
         "iconPath": "images/搜索.png",
         "selectedIconPath": "images/搜索 (1).png"
+      }, 
+      {
+        "pagePath": "pages/tools/tools",
+        "text": "工具",
+        "iconPath": "images/工具未选中.png",
+        "selectedIconPath": "images/工具选中.png"
       },
       {
         "pagePath": "pages/person/person",
         "text": "我的",
         "iconPath": "images/我的-未选中.png",
         "selectedIconPath": "images/2navbar_我的_选中.png"
-      },
-      {
-        "pagePath": "pages/tools/tools",
-        "text": "工具",
-        "iconPath": "images/工具未选中.png",
-        "selectedIconPath": "images/工具选中.png"
       }
     ]
   },

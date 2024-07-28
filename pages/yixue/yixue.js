@@ -1,4 +1,4 @@
-// pages/tools/tools.js
+// pages/医学/医学.js
 Page({
 
   /**

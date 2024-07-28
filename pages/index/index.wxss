@@ -1,62 +1,28 @@
 /**index.wxss**/
-page {
-  height: 100vh;
+.center-container {
   display: flex;
-  flex-direction: column;
-}
-.scrollarea {
-  flex: 1;
-  overflow-y: hidden;
+  justify-content: center; /* 水平居中 */
+  margin-top: 20px;
 }
 
-.userinfo {
+
+.center-container {
   display: flex;
-  flex-direction: column;
+  justify-content: center; /* 水平居中 */
+  margin-top: 20px;
+}
+
+.navigator-button {
+  width: 200px; /* 设定 navigator 按钮的宽度 */
+  height: 50px; /* 设定 navigator 按钮的高度 */
+  background-color:   yellowgreen;  
+  background-size: cover; /* 背景图片覆盖整个按钮 */
+  background-position: center; /* 背景图片居中 */
+  display: flex;
+  justify-content: center;
   align-items: center;
-  color: #aaa;
-  width: 80%;
-}
-
-.userinfo-avatar {
-  overflow: hidden;
-  width: 128rpx;
-  height: 128rpx;
-  margin: 20rpx;
-  border-radius: 50%;
-}
-
-.usermotto {
-  margin-top: 200px;
-}
-
-.avatar-wrapper {
-  padding: 0;
-  width: 56px !important;
-  border-radius: 8px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
-
-.avatar {
-  display: block;
-  width: 56px;
-  height: 56px;
-}
-
-.nickname-wrapper {
-  display: flex;
-  width: 100%;
-  padding: 16px;
-  box-sizing: border-box;
-  border-top: .5px solid rgba(0, 0, 0, 0.1);
-  border-bottom: .5px solid rgba(0, 0, 0, 0.1);
-  color: black;
-}
-
-.nickname-label {
-  width: 105px;
-}
-
-.nickname-input {
-  flex: 1;
+  text-align: center;
+  color: green; /* 文字颜色 */
+  border-radius: 4px; /* 圆角 */
+  font-size: 18px; /* 字体大小 */
 }
