@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* pages/search/search.wxss */
 .container {
   padding: 20px;
@@ -21,4 +22,29 @@ button {
 
 .result {
   margin-top: 20px;
+=======
+/* pages/search/search.wxss */
+.container {
+  padding: 20px;
+}
+
+input {
+  width: 80%;
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #1AAD19;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+.result {
+  margin-top: 20px;
+>>>>>>> 0aa488af2d6457e7ab2d7440c0690fa81df7bf53
 }
