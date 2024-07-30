@@ -15,7 +15,7 @@
     "pages/ligong/ligong",
     "pages/yixue/yixue",
     "pages/zhexue/zhexue",
-<<<<<<< HEAD
+
     "pages/yanshen/yanshen",
     "pages/index/lessons of computer/lessons of compter",
     "pages/index/lessons of computer/shuxuelei/li san/li san",
@@ -32,11 +32,11 @@
 "pages/index/lessons of computer/yan jiu sheng/yan jiu sheng",
 "pages/index/lessons of computer/policy kao yan/policy kao yan",
 "pages/index/lessons of computer/english kao yan/english kao yan",
-"pages/index/lessons of computer/physical experiment/physical experiment"
+"pages/index/lessons of computer/physical experiment/physical experiment",
 
-=======
+
     "pages/yanshen/yanshen"
->>>>>>> 0aa488af2d6457e7ab2d7440c0690fa81df7bf53
+
   ],
   "window": {
     "navigationBarTextStyle": "black",
