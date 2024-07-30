@@ -1,0 +1,6 @@
+<!--pages/index/lessons of computer/shuxuelei/shuxuelei.wxml-->
+<button><navigator url="../shuxuelei/gao shu/gao shu" open-type="navigate">高等数学</navigator></button>
+
+<button><navigator url="../shuxuelei/li san/li san" open-type="navigate">离散数学</navigator></button>
+
+<button><navigator url="../shuxuelei/xian dai/xian dai" open-type="navigate">线性代数</navigator></button>

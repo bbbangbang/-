@@ -1,0 +1,102 @@
+<!--pages/index/lessons of computer/physical experiment/physical experiment.wxml-->
+<view>1、用拉脱法测量液体的表面张力系数\n</view>
+<!--图片-->
+<image src="../../../../images/图片11.png"style="height:400rpx;width:100%"></image>
+<view>
+1)【拉脱法测量液体的表面张力系数】   </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1nq4y147dJ/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<!--图片-->
+<image src="../../../../images/图片12.png"style="height:400rpx;width:100%"></image>
+<view>
+2)【大学物理实验（原理+操作+数据处理）02 液体表面张力系数的测定（拉脱法）】   </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1Z24y1J7Bs/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<view>2、三线摆法测刚体的转动惯量\n</view>
+<!--图片-->
+<image src="../../../../images/图片13.png"style="height:400rpx;width:100%"></image>
+<view>1)【科大奥锐虚拟仿真三线摆法测刚体的转动惯量（老师制作，不但操作内容非常详细，而且还有数据处理技巧，认真完成实验有可能满分（满分80））】    </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1Ha4y1i7XC/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<!--图片-->
+<image src="../../../../images/图片14.png"style="height:400rpx;width:100%"></image>
+<view>
+2)【大学物理实验 三线摆法测转动惯量1】    </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1Z64y1Z71r/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<view>3、声速的测量\n</view>
+<!--图片-->
+<image src="../../../../images/图片15.png"style="height:400rpx;width:100%"></image>
+<view>
+  【声速的测量】  </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1pJ411i741/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<!--图片-->
+<image src="../../../../images/图片16.png"style="height:400rpx;width:100%"></image>
+<view>
+  【大学物理虚拟仿真实验——声速的测量（满分操作）】  </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1Vv411g7BA/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<view>4、惠斯登电桥及其应用\n</view>
+<!--图片-->
+<image src="../../../../images/图片17.png"style="height:400rpx;width:100%"></image>
+<view>
+  【大学物理实验-直流电桥测电阻（惠斯通电桥）-实物操作】 </view>
+<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV15T4y1d7mw/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<view>5、等厚干涉的应用---牛顿环与劈尖</view>
+<!--图片-->
+<image src="../../../../images/图片18.png"style="height:400rpx;width:100%"></image>
+<view>
+  【【物理实验】牛顿环测透镜曲率半径实验操作】   </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1TZ4y1L7ej/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<!--图片-->
+<image src="../../../../images/图片19.png"style="height:400rpx;width:100%"></image>
+<view>
+  【劈尖干涉】  </view>
+<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1Jm411m7r9/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<view>6、分光计的调节和使用\n </view>
+<!--图片-->
+<image src="../../../../images/图片20.png"style="height:400rpx;width:100%"></image>
+<view>
+  【分光计的调整与使用（老师制作，内容详细，包含分光计的结构与原理、调节分光计、使用分光计及相关数据处理等等）】  </view>
+<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1py4y1h76B/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<!--图片-->
+<image src="../../../../images/图片21.png"style="height:400rpx;width:100%"></image>
+<view>
+【分光计的调节】</view>
+<button bindtap="clickCopy" data-address="  https://www.bilibili.com/video/BV1Qb41187kf/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<view>7、用霍尔元件测螺线管磁场\n</view>
+<!--图片-->
+<image src="../../../../images/图片22.png"style="height:400rpx;width:100%"></image>
+<view>
+【霍尔效应测电场  螺线管-实验操作】  </view>
+<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1Xa411F7Yi/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<!--图片-->
+<image src="../../../../images/图片23.png"style="height:400rpx;width:100%"></image>
+<view>
+  【大学物理实验：霍尔效应（共3集）】   </view>
+<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV19K4y197S1/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<view>8、用电位差测量电源电动势\n</view>
+<!--图片-->
+<image src="../../../../images/图片24.png"style="height:400rpx;width:100%"></image>
+<view>
+  【大学物理实验——用电位差计测量电池的电动势和电阻】  </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1fx411m7Qw/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<!--图片-->
+<image src="../../../../images/图片25.png"style="height:400rpx;width:100%"></image>
+<view>
+  【大学物理实—用线式电位差计测量电流与电压】   </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1rE411273r/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<view>9、气垫导轨实验\n</view>
+<!--图片-->
+<image src="../../../../images/图片26.png"style="height:400rpx;width:100%"></image>
+<view>
+  【【高思物理】利用气垫导轨和光电门测量速度与加速度 | 实验演示】  </view>
+<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV15s411S7qN/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<!--图片-->
+<image src="../../../../images/图片27.png"style="height:400rpx;width:100%"></image>
+<view>
+  【【上海大学物理实验】速度、加速度和重力加速度的测定——气垫导轨法】   </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1q24y1j7fL/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab ">点击复制</button>

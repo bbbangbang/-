@@ -1,0 +1,35 @@
+/* pages/其他/其他.wxss */
+.container {
+  display: flex;
+  flex-direction: column; /* 垂直方向排列 */
+  align-items: center; /* 主轴（垂直方向）居中对齐 */
+  padding: 5rpx; /* 页面内边距 */
+}
+
+.site-item {
+  width: 100%; /* 每个条目占满整行 */
+  text-align: center; /* 居中显示 */
+  margin-bottom: 20rpx; /* 条目之间的间距 */
+}
+
+.site-icon {
+  width: 600rpx; /* 图标宽度 */
+  height: 240rpx; /* 图标高度 */
+  margin-bottom: 10rpx; /* 图标与网站名称之间的间距 */
+}
+
+.site-name {
+  font-size: 40rpx; /* 网站名称字体大小 */
+  color: #333; /* 字体颜色 */
+}
+
+.copy-button {
+  width: 100rpx;
+  height: 70rpx; /* 按钮高度 */
+  background-color: #42d15a; /* 按钮背景颜色 */
+  color: #fff; /* 按钮文字颜色 */
+  border: none; /* 去掉边框 */
+  border-radius: 4rpx; /* 圆角 */
+  font-size: 30rpx; /* 按钮文字大小 */
+  margin-top: 5rpx; /* 按钮与网站名称之间的间距 */
+}

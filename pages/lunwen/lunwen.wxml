@@ -1,0 +1,6 @@
+<!--pages/lunwen/lunwen.wxml-->
+<image mode="widthFix" src="../../images/论文网站.png"></image>
+<text>论文校对
+	i校对：https://www.ijiaodui.com/#page1
+免费校对论文，可检查字词错误，常识错误，敏感词过滤，政治性差错，格式错误等等，实乃一大神器
+</text>

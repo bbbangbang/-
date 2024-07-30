@@ -1,0 +1,12 @@
+<!--pages/index/lessons of computer/wu li/wu li.wxml-->
+ <!--图片-->
+<image src="../../../../images/图片33.png"style="height:400rpx;width:100%"></image>
+<view>
+  东北大学（相对论、热学）【【大学物理】东北大学-马文蔚】  </view>
+<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1qW411H7UX/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<!--图片-->
+<image src="../../../../images/图片34.png"style="height:400rpx;width:100%"></image>
+<view>
+  东南大学（力学、机械振动、机械波）【大学物理——东南大学】  </view>
+<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1kW411P7VY/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+ 

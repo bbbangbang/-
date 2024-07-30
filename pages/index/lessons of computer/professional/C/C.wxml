@@ -1,0 +1,15 @@
+<!--pages/index/lessons of computer/professional/C/C.wxml-->
+<!--图片-->
+<image src="../../../../../images/图片1.png"style="height:400rpx;width:100%"></image>
+<!--pages/index/lessons of computer/profssional/C/C.wxml-->
+<view>
+  1、翁恺C语言
+【浙江大学翁恺教你C语言程序设计！C语言基础入门！】  </view>
+<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1dr4y1n7vA/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab ">点击复制</button>
+ 
+<!--图片-->
+<image src="../../../../../images/图片2.png"style="height:400rpx;width:100%"></image>
+<view>\n2、鹏哥C语言
+【C语言程序设计从入门到进阶【比特鹏哥c语言2024完整版视频教程】（c语言基础入门c语言软件安装C语言指针c语言考研C语言专升本C语言期末计算机二级C语言c语言) </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1Vm4y1r7jY/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+ 

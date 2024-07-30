@@ -3,7 +3,36 @@
     "pages/index/index",
     "pages/logs/logs",
     "pages/person/person",
-    "pages/search/search"
+    "pages/search/search",
+    "pages/tools/tools",
+    "pages/zhitu/zhitu",
+    "pages/soutu/soutu",
+    "pages/jisuan/jisuan",
+    "pages/lunwen/lunwen",
+    "pages/shuju/shuju",
+    "pages/pdf/pdf",
+    "pages/other/other",
+    "pages/ligong/ligong",
+    "pages/yixue/yixue",
+    "pages/zhexue/zhexue",
+    "pages/yanshen/yanshen",
+    "pages/index/lessons of computer/lessons of compter",
+    "pages/index/lessons of computer/shuxuelei/li san/li san",
+    "pages/index/lessons of computer/shuxuelei/xian dai/xian dai",
+    "pages/index/lessons of computer/professional/C/C",
+"pages/index/lessons of computer/professional/C++/C++",
+"pages/index/lessons of computer/professional/Java/Java",
+"pages/index/lessons of computer/shuxuelei/gao shu/gao shu",
+"pages/index/lessons of computer/professional/Python lesson/Python lesson",
+"pages/index/lessons of computer/professional/Javascript lesson/Javascript lesson",
+"pages/index/lessons of computer/wu li/wu li",
+"pages/index/lessons of computer/professional/professional",
+"pages/index/lessons of computer/shuxuelei/shuxuelei",
+"pages/index/lessons of computer/yan jiu sheng/yan jiu sheng",
+"pages/index/lessons of computer/policy kao yan/policy kao yan",
+"pages/index/lessons of computer/english kao yan/english kao yan",
+"pages/index/lessons of computer/physical experiment/physical experiment"
+
   ],
   "window": {
     "navigationBarTextStyle": "black",
@@ -18,15 +47,27 @@
     "list": [
       {
         "pagePath": "pages/index/index",
-        "text": "首页"
+        "text": "首页",
+        "iconPath": "images/主页未选.png",
+        "selectedIconPath": "images/主页.png"
       },
       {
         "pagePath": "pages/search/search",
-        "text": "搜索"
+        "text": "搜索",
+        "iconPath": "images/搜索.png",
+        "selectedIconPath": "images/搜索 (1).png"
+      }, 
+      {
+        "pagePath": "pages/tools/tools",
+        "text": "工具",
+        "iconPath": "images/工具未选中.png",
+        "selectedIconPath": "images/工具选中.png"
       },
       {
         "pagePath": "pages/person/person",
-        "text": "我的"
+        "text": "我的",
+        "iconPath": "images/我的-未选中.png",
+        "selectedIconPath": "images/2navbar_我的_选中.png"
       }
     ]
   },

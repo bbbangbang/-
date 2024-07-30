@@ -1,0 +1,15 @@
+<!--pages/index/lessons of computer/lessons of compter.wxml-->
+
+<button><navigator url="../lessons of computer/professional/professional" open-type="navigate">计算机专业课程</navigator></button>
+
+<button><navigator url="../lessons of computer/shuxuelei/shuxuelei" open-type="navigate">数学类</navigator></button>
+
+<button><navigator url="../lessons of computer/wu li/wu li" open-type="navigate">大学物理</navigator></button>
+
+<button><navigator url="../lessons of computer/yan jiu sheng/yan jiu sheng" open-type="navigate">计算机专业课程考研</navigator></button>
+
+<button><navigator url="../lessons of computer/policy kao yan/policy kao yan" open-type="navigate">思想政治理论考研</navigator></button>
+
+<button><navigator url="../lessons of computer/english kao yan/english kao yan" open-type="navigate">英语考研</navigator></button>
+
+<button><navigator url="../lessons of computer/physical experiment/physical experiment" open-type="navigate">物理学实验C</navigator></button>

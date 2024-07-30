@@ -1,0 +1,11 @@
+<!--pages/index/lessons of computer/gao shu/gao shu.wxml-->
+<view>1、乐经良（习题课）课后有大量的习题   
+【【高等数学】上海交通大学-乐经良】\n </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1EW411H7Vj/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+
+
+<view>2、宋浩（偏向基础） 主要是知识点
+【《高等数学》同济版 2024年更新|宋浩老师】\n </view>
+<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1Eb411u7Fw/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+

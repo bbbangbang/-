@@ -1,0 +1,5 @@
+<!--pages/zhitu/zhitu.wxml-->
+<image mode="widthFix" src="../../images/制图.png"></image>
+<text>制图工具
+Flourish：https://flourish.studio/examples/
+非常强大的免费制图网站，可以制作各种统计图，并且可以制作非常精美的动态效果</text>

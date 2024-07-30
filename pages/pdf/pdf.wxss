@@ -1,0 +1,5 @@
+/* pages/pdf/pdf.wxss */
+image
+{
+  width:750rpx;
+}

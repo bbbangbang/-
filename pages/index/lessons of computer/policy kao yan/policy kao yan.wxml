@@ -1,0 +1,11 @@
+<!--pages/index/lessons of computer/policy kao yan/policy kao yan.wxml-->
+<!--图片-->
+<image src="../../../../images/图片28.png"style="height:400rpx;width:100%"></image>
+<view>
+  【考研政治强化课：思道法全集（精讲精练）】  </view>
+<button bindtap="clickCopy" data-address="  https://www.bilibili.com/video/BV1254y1R78N/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<!--图片-->
+<image src="../../../../images/图片29.png"style="height:400rpx;width:100%"></image>
+<view>
+  【【考研政治课程】马克思主义原理课程-知识点精讲】  </view>
+<button bindtap="clickCopy" data-address="  https://www.bilibili.com/video/BV1E4411W73q/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab ">点击复制</button>

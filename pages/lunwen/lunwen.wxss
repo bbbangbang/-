@@ -1,0 +1,5 @@
+/* pages/lunwen/lunwen.wxss */
+image
+{
+  width:750rpx;
+}

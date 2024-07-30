@@ -1,0 +1,5 @@
+<!--pages/pdf/pdf.wxml-->
+<image mode="widthFix" src="../../images/炒鸡PDF.png"></image>
+<text>文档转换
+超级PDF：https://xpdf.cn/
+强大，免费，简单的文档转换（word,pdf等等），还有除水印功能等</text>

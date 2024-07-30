@@ -1,0 +1,7 @@
+<!--图片-->
+<!--pages/index/lessons of computer/xian dai/xian dai.wxml-->
+<image src="../../../../../images/图片37.png"style="height:400rpx;width:100%"></image>
+<view>
+  【《线性代数》教学视频  宋浩老师（2024年更新）】  </view>
+<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1aW411Q7x1/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab ">点击复制</button>
+

@@ -1,0 +1,5 @@
+/* pages/jisuan/jisuan.wxss */
+image
+{
+  width:750rpx;
+}

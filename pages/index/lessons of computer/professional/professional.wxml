@@ -1,0 +1,11 @@
+ 
+<!--pages/index/lessons of computer/professional/professional.wxml-->
+<button><navigator url="../professional/C/C" open-type="navigate">C语言</navigator></button>
+
+<button><navigator url="../professional/C++/C++" open-type="navigate">C++语言</navigator></button>
+
+<button><navigator url="../professional/Java/Java" open-type="navigate">Java语言</navigator></button>
+ 
+<button><navigator url="../professional/Python lesson/Python lesson" open-type="navigate">Python语言</navigator></button>
+
+<button><navigator url="../professional/Javascript lesson/Javascript lesson" open-type="navigate">Javascript</navigator></button>

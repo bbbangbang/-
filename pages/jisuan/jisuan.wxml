@@ -1,0 +1,6 @@
+<!--pages/jisuan/jisuan.wxml-->
+<image mode="widthFix" src="../../images/计算器网站.png"></image>
+<text>科学计算器
+	全向计算器： https://www.omnicalculator.com/
+包括生物学，化学，建设，转换，生态学，数学，健康，统计学，体育，金融等等等等等巨牛的计算器（有将近三千种计算器）
+</text>

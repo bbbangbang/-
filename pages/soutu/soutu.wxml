@@ -1,0 +1,6 @@
+<!--pages/soutu/soutu.wxml-->
+<image mode="widthFix" src="../../images/图库.png"></image>
+<text>图库工具
+unsplash： https://unsplash.com
+世界上最慷慨的贡献者社区为您带来了600多万张免费高分辨率照片和插图。
+</text>
