@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!--pages/哲学与社会科学/哲学与社会科学.wxml-->
 <view class="container">
     <view wx:for="{{sites}}" wx:key="index" class="site-item">
@@ -11,17 +10,3 @@
     </view>
 </view>
 
-=======
-<!--pages/哲学与社会科学/哲学与社会科学.wxml-->
-<view class="container">
-    <view wx:for="{{sites}}" wx:key="index" class="site-item">
-        <!-- 网站图标 -->
-        <image class="site-icon" src="{{item.iconUrl}}"></image>
-        <!-- 网站名称 -->
-        <view class="site-name">{{item.name}}</view>
-        <!-- 复制按钮 -->
-        <button class="copy-button" data-url="{{item.url}}" bindtap="copyUrl">复制链接</button>
-    </view>
-</view>
-
->>>>>>> 0aa488af2d6457e7ab2d7440c0690fa81df7bf53
