@@ -1,6 +1,10 @@
 <!--pages/jisuan/jisuan.wxml-->
-<image mode="widthFix" src="../../images/计算器网站.png"></image>
+<image mode="widthFix" src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEMV5ZNyDE3RDbxZk4QiGG*1yxzIw1Y7a0wlRhA2X9n7o4z7fLthbVeC2tBM9j4qS1ph375dRE1tATuB.FZc8gOE!/mnull&bo=AApABgAKQAYDByI!&rf=photolist&t=5"></image>
 <text>科学计算器
 	全向计算器： https://www.omnicalculator.com/
 包括生物学，化学，建设，转换，生态学，数学，健康，统计学，体育，金融等等等等等巨牛的计算器（有将近三千种计算器）
 </text>
+<button bindtap="clickCopy" data-address=" https://www.omnicalculator.com/ ">点击复制</button>
+<navigator url="../webjisuan/webjisuan" open-type="navigate">
+	<button>点击跳转</button>
+</navigator>

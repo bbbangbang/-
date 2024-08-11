@@ -7,21 +7,21 @@
 
   <view class="t1">
     <navigator url="../zhitu/zhitu" open-type="navigate">
-	    <image src="../../images/m-思维导图.png" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+	    <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEHxhzvsFD6OXshbaJgJTPBIfGjDR6vufIpUem7W.dqcTIS6ZCaff9M3oOdaEyjec7rQEePkAzw09sVIF9ox.aZ0!/mnull&bo=yADIAMgAyAADByI!&rf=photolist&t=5" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
 	    <text >制图</text>
     </navigator>
   </view>
 
   <view class="t2">
     <navigator url="../soutu/soutu" open-type="navigate">
-	    <image src="../../images/以图搜图.png" style="height: 140rpx;width: 140rpx;" mode="scaleToFill"></image>
+	    <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEHxhzvsFD6OXshbaJgJTPBJ1Rxw1nUkgf6bYRZ2.fdppIMmwg1ZrWe7vyvXkzCkvVwy1FsE9ONp62eM3czSBaTY!/mnull&bo=0ADIANAAyAADByI!&rf=photolist&t=5" style="height: 140rpx;width: 140rpx;" mode="scaleToFill"></image>
 	    <text >搜图</text>
     </navigator>
   </view>
 
   <view class="t3">
     <navigator url="../lunwen/lunwen" open-type="navigate">
-	    <image src="../../images/论文.png" style="height: 160rpx;width: 190rpx;" mode="scaleToFill"></image>
+	    <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEHxhzvsFD6OXshbaJgJTPBKc0Pqto9xf1tOqvn3aITiZRQmAMFnRUHzvuznQCaZNaUMVBvPXDfNiaTrKQQQRQzw!/mnull&bo=DwHIAA8ByAADByI!&rf=photolist&t=5" style="height: 160rpx;width: 190rpx;" mode="scaleToFill"></image>
 	    <text >论文校对</text>
     </navigator>
   </view>
@@ -32,21 +32,21 @@
 
   <view class="t4">
     <navigator url="../jisuan/jisuan" open-type="navigate">
-	    <image src="../../images/计算器.png" style="height: 140rpx;width: 140rpx;" mode="scaleToFill"></image>
+	    <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEEA2JMp09jF8fRuWqdRI.xf*jeYz*gW4MW9U0LU7qrPomyMTSjvMLtM6NpoTuqYofYZ.QcJZIu0XIvoyCLevYlw!/mnull&bo=yADIAMgAyAADByI!&rf=photolist&t=5" style="height: 140rpx;width: 140rpx;" mode="scaleToFill"></image>
 	    <text >科学计算器</text>
     </navigator>
   </view>
 
   <view class="t5">
     <navigator url="../shuju/shuju" open-type="navigate">
-	    <image src="../../images/数据.png" style="height: 140rpx;width: 140rpx;" mode="scaleToFill"></image>
+	    <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEHxhzvsFD6OXshbaJgJTPBJ46inUmm1b6Xgie.yPi8Bj*UM3lfRElD0YU*PiUOO6B3kOGHVK8nHCHF*eOb4kbAI!/mnull&bo=yADIAMgAyAADByI!&rf=photolist&t=5" style="height: 140rpx;width: 140rpx;" mode="scaleToFill"></image>
 	    <text >数据网站</text>
     </navigator>
   </view>
 
   <view class="t6">
     <navigator url="../pdf/pdf" open-type="navigate">
-	    <image src="../../images/pdf.png" style="height: 140rpx;width: 140rpx;" mode="scaleToFill"></image>
+	    <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrENmeG4w1BrpLV*Q6sjF.Xvg*rxwIZ*y1VdTUNcGeWUSJgep.JytDGrgRbWNW6VQcLoHvw3KRDQZmwazONMXJX3s!/mnull&bo=yADIAMgAyAADByI!&rf=photolist&t=5" style="height: 140rpx;width: 140rpx;" mode="scaleToFill"></image>
 	    <text >文档转化</text>
     </navigator>
   </view>

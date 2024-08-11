@@ -1,0 +1,36 @@
+<!--pages/lwwz/lwwz.wxml-->
+<view class="center-container">
+    <navigator url="../other/other" class="navigator-button" open-type="navigate">
+      <text class="button-text">其他</text>
+    </navigator>
+  </view>
+
+  <view class="center-container">
+    <navigator url="../ligong/ligong" class="navigator-button" open-type="navigate">
+      <text class="button-text">理工</text>
+    </navigator>
+  </view>
+
+  <view class="center-container">
+    <navigator url="../yixue/yixue" class="navigator-button" open-type="navigate">
+      <text class="button-text">医学</text>
+    </navigator>
+  </view>
+
+  <view class="center-container">
+    <navigator url="../zhexue/zhexue" class="navigator-button" open-type="navigate">
+      <text class="button-text">哲学与社会科学</text>
+    </navigator>
+  </view>
+
+  <view class="center-container">
+    <navigator url="../yanshen/yanshen" class="navigator-button" open-type="navigate">
+      <text class="button-text">延伸文献搜索</text>
+    </navigator>
+  </view>
+
+  <view class="center-container">
+    <navigator url="../index/lessons of computer/lessons of compter" class="navigator-button" open-type="navigate">
+      <text class="button-text">计算机专业相关课程</text>
+    </navigator>
+  </view>

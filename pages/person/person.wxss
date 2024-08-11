@@ -1,12 +1,14 @@
-/* pages/person/person.wxss */
-
-.topInformation{
-  background-color:#95FEDD;
-  height: 200rpx;
+.container {
+  padding: 20px;
 }
 
-.user{
-  padding: 40rpx 40rpx 10rpx 90rpx;
-  height: 90rpx;
-  width: 15%;
+.title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+button {
+  margin-top: 30px ;
+  color:black;
+  background-color: rgb(37, 179, 67);
 }

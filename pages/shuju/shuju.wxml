@@ -1,13 +1,27 @@
 <!--pages/shuju/shuju.wxml-->
-<image mode="widthFix" src="../../images/国家统计局.png"></image>
+<image mode="widthFix" src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEMV5ZNyDE3RDbxZk4QiGG*3Royxn3j4562lFFK6tBkerAOCe1xKs5QCGhnPUG87Am9ZU8V4yutiASd7ePwDDmRc!/mnull&bo=gAewBAAKQAYDB10!&rf=photolist&t=5"></image>
 <text>国家统计局：https://www.stats.gov.cn
 宏观数据可查
 </text>
-<image mode="widthFix" src="../../images/德勤.png"></image>
+<button bindtap="clickCopy" data-address=" https://www.stats.gov.cn ">点击复制</button>
+<navigator url="../websuju/websuju" open-type="navigate">
+	<button>点击跳转</button>
+</navigator>
+
+<image mode="widthFix" src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEIOvL3KZWOXQYaKb0vmsNoUrkHBSyLRn3UAMj9j7Bh5momdEz2Pe8AMAwRx8i0m9*Drb2e.BLeSjlHsV1Jvv*Fw!/mnull&bo=AApABgAKQAYDByI!&rf=photolist&t=5"></image>
 <text>德勤：https://www2.deloitte.com/cn/zh.html
 中观数据可查
 </text>
-<image mode="widthFix" src="../../images/百度指数.png"></image>
+<button bindtap="clickCopy" data-address=" https://www2.deloitte.com/cn/zh.html ">点击复制</button>
+<navigator url="../websuju2/websuju2" open-type="navigate">
+	<button>点击跳转</button>
+</navigator>
+
+<image mode="widthFix" src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEDxzPyCFRKx.OA0f0y9brFOy*xbkkO2kZ5rB0UkfqdgWTp5E2FdSfxuACGqmNkonhnGOLM84e9VqYBh4AyQYpH0!/mnull&bo=gAewBAAKQAYDB10!&rf=photolist&t=5"></image>
 <text>百度指数：https://index.baidu.com/v2/index.html#/
 微观数据可查
 </text>
+<button bindtap="clickCopy" data-address=" https://index.baidu.com/v2/index.html#/ ">点击复制</button>
+<navigator url="../websuju3/websuju3" open-type="navigate">
+	<button>点击跳转</button>
+</navigator>

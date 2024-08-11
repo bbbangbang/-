@@ -1,0 +1,2 @@
+<!--pages/yanshen/cp/cp.wxml-->
+<web-view src="https://www.connectedpapers.com/"></web-view>

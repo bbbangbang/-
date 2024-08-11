@@ -1,0 +1,2 @@
+<!--pages/websuju3/websuju3.wxml-->
+<web-view src=" https://index.baidu.com/v2/index.html#/ "></web-view>

@@ -1,38 +1,47 @@
 <!--pages/index/lessons of computer/yan jiu sheng/yan jiu sheng.wxml-->
  <view>1、操作系统\n</view>
   <!--图片-->
-<image src="../../../../images/图片38.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEA45lRLP4GNvtLBsTHD0S67QkwrCAyQ3mlOfRXTZk7CaTdJeU8XDY1oMFNbqdZbNaa9.2b2IIN0szMAniHmh9YE!/mnull&bo=YAHDAAAAAAADB4A!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <view>
 【王道计算机考研 操作系统】   </view>
-<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1YE411D7nH/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1YE411D7nH/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../yan jiu sheng/caozuo1/caozuo1" open-type="navigate">进入课堂</navigator></button>
 
 <view>
   2、计算机组成原理\n</view>
   <!--图片-->
-<image src="../../../../images/图片39.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEA45lRLP4GNvtLBsTHD0S66YYZfv4kj4ESQ4tg*sy1eyEYXKjGXF0ylEsZah1y*A11WbF1q5uuwj2eluWW4LSvY!/mnull&bo=YAG7AAAAAAADB*g!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <view>
 【王道计算机考研 计算机组成原理】   </view>
-<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1ps4y1d73V/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1ps4y1d73V/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../yan jiu sheng/zucheng1/zucheng1" open-type="navigate">进入课堂</navigator></button>
 
 <view>
   3、计算机网络\n</view>
   <!--图片-->
-<image src="../../../../images/图片40.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEA45lRLP4GNvtLBsTHD0S670V1y8O.M3m*ZiiMC.mIEJP0vlMcDdrGGDYTeM8DloaIFUdynOu.SXUv4AwcvMQTM!/mnull&bo=ZAHGAAAAAAADB4E!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <view>
 【王道计算机考研 计算机网络】 </view>
-<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV19E411D78Q/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV19E411D78Q/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../yan jiu sheng/wangluo1/wangluo1" open-type="navigate">进入课堂</navigator></button>
 
 <view>
   4、数据机构\n</view>
   <!--图片-->
-<image src="../../../../images/图片41.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEA45lRLP4GNvtLBsTHD0S64BMuuXeGatFzgt7Tcf9*y.5HCHpz.RCKfVQuJZZpMcuOPwUILaWCffc1jcYj2ipaQ!/mnull&bo=WwHAAAAAAAADB7g!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <view>
 1）【王道计算机考研 数据结构】   </view>
-<button bindtap="clickCopy" data-address="  https://www.bilibili.com/video/BV1b7411N798/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address="  https://www.bilibili.com/video/BV1b7411N798/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../yan jiu sheng/shujv1/shujv1" open-type="navigate">进入课堂</navigator></button>
+
 <!--图片-->
-<image src="../../../../images/图片42.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEFImAqjSBS2ugiwcfd1*Vwa53AsdvRKgAXCz66Gx4b0isKKFBjg4Pgnl*GnGZd1tjVRGsxqnU52U4*vadPSn60E!/mnull&bo=YQHFAAAAAAADB4c!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <view>
   2）【数据结构与算法基础（青岛大学-王卓）】   </view>
-<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1nJ411V7bd/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1nJ411V7bd/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
 
-
+<button size="mini" class="copy-button"><navigator url="../yan jiu sheng/shujv2/shujv2" open-type="navigate">进入课堂</navigator></button>

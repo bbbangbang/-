@@ -1,6 +1,10 @@
 <!--pages/soutu/soutu.wxml-->
-<image mode="widthFix" src="../../images/图库.png"></image>
+<image mode="widthFix" src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/ruAMsa53pVQWN7FLK88i5iwquvnY.*v8bLE4NsxIxLtMLaw5s.EvDnAVovr2w2dwHa0hMI1Y2alYy9VmTQROgwA18UFrC3ss9NS8o9wMf80!/mnull&bo=AApABkALCAcHBy4!&rf=photolist&t=5"></image>
 <text>图库工具
 unsplash： https://unsplash.com
 世界上最慷慨的贡献者社区为您带来了600多万张免费高分辨率照片和插图。
 </text>
+<button bindtap="clickCopy" data-address=" https://unsplash.com ">点击复制</button>
+<navigator url="../websoutu/websoutu" open-type="navigate">
+	<button>点击跳转</button>
+</navigator>

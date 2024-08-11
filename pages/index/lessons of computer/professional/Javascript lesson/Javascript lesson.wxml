@@ -1,13 +1,15 @@
 
 <!--pages/index/lessons of computer/professional/Javascript lesson/Javascript lesson.wxml-->
 <!--图片-->
-<image src="../../../../../images/图片5.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEFO3E4TE5BqI8PjWOB3phB5nu2EnHVGxcLRKS.*lSUsf.91Bkt49ERGzVbVKtN0Bh0HIaY8MELzIx7FFPGm0NO0!/mnull&bo=XQHEAAAAAAADB7o!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <view>【黑马程序员JavaScript全套教程，Web前端必学的JS入门教程，零基础JavaScript入门】 </view>
-<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1ux411d75J/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1ux411d75J/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../Javascript lesson/Javascript1/Javascript1" open-type="navigate">进入课堂</navigator></button>
 
 <!--图片-->
-<image src="../../../../../images/图片6.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEIQD9ihFxzfXjpsLDJyakjVuMLooU4UNzTmdU37ZVl*bU8ifMbKxs4gHVVejur0udVlf8xIerrtGpwTOsxhqtRg!/mnull&bo=YAHEAAAAAAADB4c!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <view>\n【黑马程序员前端JavaScript入门到精通全套视频教程，javascript核心进阶ES6语法、API、js高级等基础知识和实战教程】 </view>
-<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1Y84y1L7Nn/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1Y84y1L7Nn/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
 
-
+<button size="mini" class="copy-button"><navigator url="../Javascript lesson/Javascript2/Javascript2" open-type="navigate">进入课堂</navigator></button>

@@ -1,0 +1,12 @@
+/* pages/blwz/blwz.wxss */
+.container0{
+  width:100%;
+  height:700rpx;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.text{
+  color:#000;
+}

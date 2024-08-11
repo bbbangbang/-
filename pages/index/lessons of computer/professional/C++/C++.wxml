@@ -1,8 +1,10 @@
 
 <!--图片-->
-<image src="../../../../../images/图片3.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEFO3E4TE5BqI8PjWOB3phB5thoodEJKfTDMYVbYDndhdcTaKG1r0Og20zgc9FGRy3Tl9VcNkZy2zB5B5NfLju0k!/mnull&bo=YgHFAAAAAAADB4Q!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <!--pages/index/lessons of computer/professional/C++/C++.wxml-->
 <view>
   【黑马程序员匠心之作|C++教程从0到1入门编程,学习编程不再难】   </view>
-<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1et411b73Z/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1et411b73Z/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../C++/C++1/C++1" open-type="navigate">进入课堂</navigator></button>
  

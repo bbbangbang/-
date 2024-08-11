@@ -9,12 +9,12 @@
 .site-item {
   width: 100%; /* 每个条目占满整行 */
   text-align: center; /* 居中显示 */
-  margin-bottom: 20rpx; /* 条目之间的间距 */
+  margin-bottom: 80rpx; /* 条目之间的间距 */
 }
 
 .site-icon {
-  width: 600rpx; /* 图标宽度 */
-  height: 240rpx; /* 图标高度 */
+  width: 650rpx; /* 图标宽度 */
+  height: 180rpx; /* 图标高度 */
   margin-bottom: 10rpx; /* 图标与网站名称之间的间距 */
 }
 
@@ -33,3 +33,17 @@
   font-size: 30rpx; /* 按钮文字大小 */
   margin-top: 5rpx; /* 按钮与网站名称之间的间距 */
 }
+
+/* 样式规则示例 */
+.jump-button {
+  width: 100rpx;
+  height: 70rpx; /* 按钮高度 */
+  background-color:yellow; /* 蓝色背景 */
+  color:black; /* 按钮文字颜色 */
+  border:none; /* 无边框 */
+  border-radius: 4px; /* 圆角 */
+  font-size: 30rpx; /* 按钮文字大小 */
+  margin-top: 5rpx;
+}
+
+

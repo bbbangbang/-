@@ -1,1 +1,13 @@
 /* pages/index/lessons of computer/C++/C++.wxss */
+.copy-button {
+  width: 30rpx;
+  height: 60rpx; /* 按钮高度 */
+  background-color: #e963c7; /* 按钮背景颜色 */
+  color: #fff; /* 按钮文字颜色 */
+  border: none; /* 去掉边框 */
+  border-radius: 4rpx; /* 圆角 */
+  font-size: 30rpx; /* 按钮文字大小 */
+  margin-top: 5rpx; /* 按钮与网站名称之间的间距 */
+  margin-top: 10px; /* 按钮与上方元素的距离 */  
+  margin-left: 30px; /* 按钮与左侧元素的距离 */  
+}

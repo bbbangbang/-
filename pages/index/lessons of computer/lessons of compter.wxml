@@ -1,15 +1,48 @@
 <!--pages/index/lessons of computer/lessons of compter.wxml-->
+<view class="container1">
+  <view class="t1">
+  <navigator url="../lessons of computer/professional/professional" open-type="navigate">
+    <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEIySM5HqhC20vmm1Bqm73WJMZQgxK6oyQokOJFptpJS6a2NM0X6fE7kreGafTnmjeDP6QfPSU96z1HDr43oZLik!/mnull&bo=yADIAAAAAAADByI!&rf=photolist&t=5" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>计算机专业课程</text>
+   </navigator>   
+</view>
 
-<button><navigator url="../lessons of computer/professional/professional" open-type="navigate">计算机专业课程</navigator></button>
+<view class="t2"><navigator url="../lessons of computer/shuxuelei/shuxuelei" open-type="navigate">
+  <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEIySM5HqhC20vmm1Bqm73WJQvSbYIPcumXOR*oMEqzMrcyIXXVtWcnriVg3OHBNmAm3jMZxJSKvbu79QCKqm0jY!/mnull&bo=yADIAAAAAAADByI!&rf=photolist&t=5" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>数学类</text>
+ </navigator>
+</view>
 
-<button><navigator url="../lessons of computer/shuxuelei/shuxuelei" open-type="navigate">数学类</navigator></button>
+<view class="t3"><navigator url="../lessons of computer/wu li/wu li" open-type="navigate">
+  <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEFImAqjSBS2ugiwcfd1*VwaD7f1Jgmom0.E2jAEvm4cZ1aX.87sEHQTL10ga.PxrQOC3S037GkWa6Pc9jnhunVo!/mnull&bo=yADIAAAAAAADByI!&rf=photolist&t=5" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>大学物理</text>
+ </navigator>
+</view>
+</view>
+<view class="container2"> 
+  <view class="t4"><navigator url="../lessons of computer/yan jiu sheng/yan jiu sheng"open-type="navigate">
+    <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrENmeG4w1BrpLV*Q6sjF.XvjDr8rpUEfQQZxXcPgA*TDLJb0YzPdrtMKz4ssmBBg3ysGFIdaP7wRW2K4.64gpzkc!/mnull&bo=yADIAAAAAAADByI!&rf=photolist&t=5" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>计算机专业考研</text>
+   </navigator> 
+  </view>
 
-<button><navigator url="../lessons of computer/wu li/wu li" open-type="navigate">大学物理</navigator></button>
+  <view class="t5"><navigator url="../lessons of computer/policy kao yan/policy kao yan" open-type="navigate">
+    <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrECmNfpwMWjg0Y3IKl3SMMDugXAbluFNMRD0GahNW08B5FV0ewT*KJnAphRPv52fXLyZbDPooQ*2uCJjtECiLUqA!/mnull&bo=yADIAAAAAAADByI!&rf=photolist&t=5" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>思想政治理论考研</text>
+   </navigator> 
+  </view>
 
-<button><navigator url="../lessons of computer/yan jiu sheng/yan jiu sheng" open-type="navigate">计算机专业课程考研</navigator></button>
-
-<button><navigator url="../lessons of computer/policy kao yan/policy kao yan" open-type="navigate">思想政治理论考研</navigator></button>
-
-<button><navigator url="../lessons of computer/english kao yan/english kao yan" open-type="navigate">英语考研</navigator></button>
-
-<button><navigator url="../lessons of computer/physical experiment/physical experiment" open-type="navigate">物理学实验C</navigator></button>
+  <view class="t6"><navigator url="../lessons of computer/english kao yan/english kao yan" open-type="navigate">
+    <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEFImAqjSBS2ugiwcfd1*Vwa.35X5F2k5DQwa6WJGYXkXO7IX2K9NtDuqAT.WTZBXRYiAak7ZaP.z4.Ce05A5Ve8!/mnull&bo=yADIAAAAAAADByI!&rf=photolist&t=5" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>英语考研</text>
+   </navigator> 
+</view>
+</view>
+<view class="container3"> 
+  <view class="t7"><navigator url="../lessons of computer/physical experiment/physical experiment" open-type="navigate">
+    <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEFImAqjSBS2ugiwcfd1*VwZ2j14C8OYLFm4746q6MQzNa7Ch24jyUFw.J1MHWliy1UH*ZnZhMnMqvzHdB0o2Noo!/mnull&bo=7wDIAAAAAAADBwU!&rf=photolist&t=5" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>物理学实验C</text>
+   </navigator> 
+  </view>
+</view>
+ 

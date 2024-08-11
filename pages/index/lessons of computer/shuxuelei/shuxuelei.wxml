@@ -1,6 +1,22 @@
 <!--pages/index/lessons of computer/shuxuelei/shuxuelei.wxml-->
-<button><navigator url="../shuxuelei/gao shu/gao shu" open-type="navigate">高等数学</navigator></button>
+<view class="container1"> 
+  <view class="t1">
+ <navigator url="../shuxuelei/gao shu/gao shu" open-type="navigate">
+  <image src="../../../../images/hanshu.png" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>高等数学</text>
+  </navigator> 
+</view>
 
-<button><navigator url="../shuxuelei/li san/li san" open-type="navigate">离散数学</navigator></button>
+<view class="t2"><navigator url="../shuxuelei/li san/li san" open-type="navigate">
+  <image src="../../../../images/集合.png" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>离散数学</text>
+ </navigator> 
+</view>
 
-<button><navigator url="../shuxuelei/xian dai/xian dai" open-type="navigate">线性代数</navigator></button>
+<view class="t3"><navigator url="../shuxuelei/xian dai/xian dai" open-type="navigate">
+  <image src="../../../../images/矩阵.png" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>线性代数</text>
+ </navigator> 
+</view>
+</view>
+ 

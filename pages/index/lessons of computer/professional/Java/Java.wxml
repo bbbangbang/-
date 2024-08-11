@@ -1,6 +1,8 @@
 <!--图片-->
-<image src="../../../../../images/图片4.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEFO3E4TE5BqI8PjWOB3phB4tOu5gB2xd7Jvik5BosZegdzGwuQO.LtfKZOF37hu6tef.2zXTsJZybvieWWmC1jk!/mnull&bo=WwG9AAAAAAADB8U!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <!--pages/index/lessons of computer/professional/Java/Java.wxml-->
 <view>【黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）】 </view>
-<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV17F411T7Ao/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV17F411T7Ao/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../Java/Java1/Java1" open-type="navigate">进入课堂</navigator></button>
  

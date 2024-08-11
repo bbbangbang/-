@@ -1,14 +1,18 @@
 <!--pages/index/lessons of computer/gao shu/gao shu.wxml-->
 <!--图片-->
-<image src="../../../../../images/图片30.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEMLZiv4TINsstGccT6kffHbzbioklsHYO2D0F.m7vHtYqpqVscVfx4LWF.sBMRaeA1rYmXxNICp1meXby5MRgwk!/mnull&bo=XgHFAAAAAAADB7g!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <view>1、乐经良（习题课）课后有大量的习题   
 【【高等数学】上海交通大学-乐经良】\n </view>
-<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1EW411H7Vj/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1EW411H7Vj/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../gao shu/gaoshu1/gaoshu1" open-type="navigate">进入课堂</navigator></button>
 
 <!--图片-->
-<image src="../../../../../images/图片31.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEMLZiv4TINsstGccT6kffHaqfWWO*rX4KZdWZ38T063H3wDvceR63gQ6BI8z7W*qPv5ztqScVsxsvIhwL2N0*mI!/mnull&bo=XgHGAAAAAAADB7s!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 
 <view>2、宋浩（偏向基础） 主要是知识点
 【《高等数学》同济版 2024年更新|宋浩老师】\n </view>
-<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1Eb411u7Fw/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1Eb411u7Fw/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../gao shu/gaoshu2/gaoshu2" open-type="navigate">进入课堂</navigator></button>
 

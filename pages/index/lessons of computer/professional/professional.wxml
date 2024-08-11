@@ -1,11 +1,35 @@
  
 <!--pages/index/lessons of computer/professional/professional.wxml-->
-<button><navigator url="../professional/C/C" open-type="navigate">C语言</navigator></button>
+<view class="container1"> 
+  <view class="t1">
+<navigator url="../professional/C/C" open-type="navigate">
+  <image src="../../../../images/c语言.png" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>C语言</text>
+  </navigator> 
+  </view>
+<view class="t2">
+ <navigator url="../professional/C++/C++" open-type="navigate">
+  <image src="../../../../images/c++.png" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>C++</text> </navigator> 
+</view>
 
-<button><navigator url="../professional/C++/C++" open-type="navigate">C++语言</navigator></button>
+<view class="t3">
+<navigator url="../professional/Java/Java" open-type="navigate">
+  <image src="../../../../images/java.png" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+  <text>Java</text></navigator> 
+</view>
+</view>
+ <view class="container2"> 
+<view class="t4"><navigator url="../professional/Python lesson/Python lesson" open-type="navigate">
+<image src="../../../../images/python.png" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+<text>Python</text>  
+</navigator> 
+</view>
 
-<button><navigator url="../professional/Java/Java" open-type="navigate">Java语言</navigator></button>
+<view class="t5"><navigator url="../professional/Javascript lesson/Javascript lesson" open-type="navigate">
+  <image src="../../../../images/java-script.png" style="height: 150rpx;width: 150rpx;" mode="scaleToFill"></image>
+<text>Javascript</text>
+ </navigator> 
+</view>
+</view>
  
-<button><navigator url="../professional/Python lesson/Python lesson" open-type="navigate">Python语言</navigator></button>
-
-<button><navigator url="../professional/Javascript lesson/Javascript lesson" open-type="navigate">Javascript</navigator></button>

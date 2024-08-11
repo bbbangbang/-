@@ -1,11 +1,16 @@
 // pages/tools/tools.js
+const articlesData = require('../../data/articles.js')
+
 Page({
 
-  /**
-   * 页面的初始数据
-   */
   data: {
-
+    articles: articlesData.articles
+  },
+  openArticle: function(event) {
+    const url = event.currentTarget.dataset.url
+    wx.navigateTo({
+      url: `/pages/article/article?url=${encodeURIComponent(url)}`
+    })
   },
 
   /**

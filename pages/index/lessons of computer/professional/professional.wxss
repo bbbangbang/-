@@ -1,1 +1,49 @@
 /* pages/index/lessons of computer/professional/professional.wxss */
+.container1{ 
+  width: 100%;
+  height: 250rpx;
+  display: flex;
+  flex-direction: row;
+}
+.t1{
+  height:150rpx;
+  width:150rpx;
+  position: relative;
+  top:15rpx;
+  left: 50rpx;
+}
+.t2{
+	height:150rpx;
+  width:150rpx;
+  position: relative;
+  top:15rpx;
+  left: 170rpx;
+}
+.t3{
+	height:150rpx;
+  width:150rpx;
+  position: relative;
+  top:15rpx;
+  left: 270rpx;
+}
+.container2{ 
+  width: 100%;
+  height: 250rpx;
+  display: flex;
+  flex-direction: row;
+}
+
+.t4{
+  height:150rpx;
+  width:150rpx;
+  position: relative;
+  top:15rpx;
+  left: 50rpx;
+}
+.t5{
+  height:150rpx;
+  width:150rpx;
+  position: relative;
+  top:15rpx;
+  left: 160rpx;
+}

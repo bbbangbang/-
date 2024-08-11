@@ -1,0 +1,10 @@
+<!-- pages/articleList/articleList.wxml -->
+<view class="container">
+  <block wx:for="{{articles}}" wx:key="url">
+    <view class="article-item" bindtap="openArticle" data-url="{{item.url}}">
+      <image class="cover-image" src="{{item.coverImage}}" mode="aspectFill"></image>
+      <text class="article-title">{{item.title}}</text>
+      <text class="article-description">{{item.description}}</text> <!-- 如果有描述字段 -->
+    </view>
+  </block>
+</view>

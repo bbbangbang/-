@@ -17,25 +17,17 @@ Page({
 
   onSearch: function() {
     const query = this.data.query;
-    if (query) {
-      // 模拟搜索结果，可以替换成实际的搜索逻辑
-      const results = this.search(query);
-      this.setData({
-        results: results
-      });
-    } else {
-      wx.showToast({
-        title: '请输入搜索内容',
-        icon: 'none'
-      });
-    }
+    wx.request({
+      url: 'http://yilunlink.com:5000/search',
+      data: { query },
+      success: (res) => {
+        this.setData({
+          results: res.data
+        });
+      }
+    });
   },
 
-  search: function(query) {
-    // 模拟搜索结果
-    const allItems = ['苹果', '香蕉', '橙子', '葡萄', '梨', '西瓜', '《李昱宁的孙子张元为何总是大逆不道》'];
-    return allItems.filter(item => item.includes(query));
-  },
 
 
   /**

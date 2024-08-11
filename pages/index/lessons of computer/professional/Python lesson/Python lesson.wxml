@@ -1,11 +1,16 @@
 <!--pages/index/lessons of computer/professional/Python lesson/Python lesson.wxml-->
 <!--图片-->
-<image src="../../../../../images/图片35.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEIQD9ihFxzfXjpsLDJyakjXzCiBKFuQauq603PBaWwJzQ0Oig4CLNTG*4fO8LjFC74sx9V9ElRmDu9RSfvPxQ8A!/mnull&bo=YQHDAAAAAAADB4E!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
  
 <view>1）【入门到精通(Python全栈开发教程)】 </view>
-<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1wD4y1o7AS/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1wD4y1o7AS/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../Python lesson/Python1/Python1" open-type="navigate">进入课堂</navigator></button>
+
 <!--图片-->
-<image src="../../../../../images/图片36.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEIQD9ihFxzfXjpsLDJyakjUCGvfW17suSv499lWH1SgmEW*iaNiMwcGaaxRuQy4gWaa07FPQ*EmhNNOwynk9KMs!/mnull&bo=WgHDAAAAAAADB7o!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <view>
 2）【黑马程序员python教程，8天python从入门到精通，学python看这套就够了】 </view>
-<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1qW4y1a7fU/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1qW4y1a7fU/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../Python lesson/Python2/Python2" open-type="navigate">进入课堂</navigator></button>

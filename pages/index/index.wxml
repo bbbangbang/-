@@ -1,38 +1,44 @@
 <!--index.wxml-->
+<swiper class="swiper" autoplay indicator-dots>
+<swiper-item>item1</swiper-item>
+<swiper-item>item2</swiper-item>
+<swiper-item>item3</swiper-item>
+</swiper>
 
+<view class="container0">
+    <navigator url="../lwwz/lwwz" open-type="navigate">
+      <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEDxzPyCFRKx.OA0f0y9brFMgdw.yult41*.e5rGDHoQS4HgPPXomRR4iVab0XqDwwoS7wz2nHtG1ylMQGoXujGk!/mnull&bo=yADIAAAAAAADByI!&rf=photolist&t=5" style="height: 105rpx;width: 100rpx;position: relative;left: 50rpx;" mode="scaleToFill"></image>
 
-<view class="center-container">
-    <navigator url="../other/other" class="navigator-button" open-type="navigate">
-      <text class="button-text">其他</text>
-    </navigator>
-  </view>
+      </navigator>
 
-  <view class="center-container">
-    <navigator url="../ligong/ligong" class="navigator-button" open-type="navigate">
-      <text class="button-text">理工</text>
-    </navigator>
-  </view>
-
-  <view class="center-container">
-    <navigator url="../yixue/yixue" class="navigator-button" open-type="navigate">
-      <text class="button-text">医学</text>
-    </navigator>
-  </view>
-
-  <view class="center-container">
-    <navigator url="../zhexue/zhexue" class="navigator-button" open-type="navigate">
-      <text class="button-text">哲学与社会科学</text>
-    </navigator>
-  </view>
-
-  <view class="center-container">
-    <navigator url="../yanshen/yanshen" class="navigator-button" open-type="navigate">
-      <text class="button-text">延伸文献搜索</text>
-    </navigator>
-  </view>
-
-  <view class="center-container">
     <navigator url="../index/lessons of computer/lessons of compter" class="navigator-button" open-type="navigate">
-      <text class="button-text">计算机专业相关课程</text>
+      <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEDxzPyCFRKx.OA0f0y9brFOi0U*64zZVFJW7mUP42Q3mRvJS1whPJZW9YRChiLLc6lyfGJklkCEFVw2x*C2AaPE!/mnull&bo=yADIAAAAAAADByI!&rf=photolist&t=5" style="height: 100rpx;width: 95rpx;position: relative;left: 140rpx;" mode="scaleToFill"></image>
+	
+      </navigator>
+
+    <navigator url="../blwz/blwz" open-type="navigate">
+      <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEDxzPyCFRKx.OA0f0y9brFOHmQIWz7XRZc40nFCTuJrcBzk8NEGO.69.sQdNxK2h9Y*vQmAjp3U5x11YHdrausQ!/mnull&bo=yADIAAAAAAADByI!&rf=photolist&t=5" style="height: 100rpx;width: 100rpx;position: relative;left: 230rpx;" mode="scaleToFill"></image>
+
     </navigator>
-  </view>
+
+    <navigator url="../liuyan/liuyan" open-type="navigate">
+      <image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEA*VW.cxCei4.MunUP.k80ioUIW289vgHUGIdby0ZEpoNSpnMBghWSVW2zOwWg41q6NQETdIdBdIYWrinHITH7Y!/b&bo=yADIAAAAAAADByI!&rf=viewer_4" style="height: 100rpx;width: 100rpx;position: relative;left: 300rpx;" mode="scaleToFill"></image>
+
+    </navigator>
+</view>
+
+<view class="container00">
+  <text style="position: relative;left: 40rpx; color:#000;">论文网站</text>
+  <text style="position: relative;left: 117rpx; color:#000;">视频课</text>
+  <text style="position: relative;left: 197rpx; color:#000;">北林网址</text>
+  <text style="position: relative;left: 260rpx; color:#000;">留言板</text>
+</view>
+
+  <view class="container1">
+  <block wx:for="{{articles}}" wx:key="url">
+    <view class="article-item" bindtap="openArticle" data-url="{{item.url}}">
+      <image class="cover-image" src="{{item.coverImage}}" mode="aspectFill"></image>
+      <text class="article-title">{{item.title}}</text>
+    </view>
+  </block>
+</view>

@@ -1,6 +1,11 @@
 <!--pages/lunwen/lunwen.wxml-->
-<image mode="widthFix" src="../../images/论文网站.png"></image>
+<image mode="widthFix" src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEDxzPyCFRKx.OA0f0y9brFOFuWkF.JvBfmlhwBDZ7wX2zExazZHWLpvFMoOa3f0Dgur*PHw7hNPY4qCSOJez6x0!/mnull&bo=gAewBAAKQAYDB10!&rf=photolist&t=5"></image>
 <text>论文校对
 	i校对：https://www.ijiaodui.com/#page1
 免费校对论文，可检查字词错误，常识错误，敏感词过滤，政治性差错，格式错误等等，实乃一大神器
 </text>
+<button bindtap="clickCopy" data-address=" https://www.ijiaodui.com/#page1 ">点击复制</button>
+<navigator url="../weblunwen/weblunwen" open-type="navigate">
+	<button>点击跳转</button>
+</navigator>
+

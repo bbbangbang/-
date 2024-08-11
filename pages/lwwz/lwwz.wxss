@@ -1,0 +1,28 @@
+/* pages/lwwz/lwwz.wxss */
+.center-container {
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  margin-top: 20px;
+}
+
+
+.center-container {
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  margin-top: 20px;
+}
+
+.navigator-button {
+  width: 200px; /* 设定 navigator 按钮的宽度 */
+  height: 50px; /* 设定 navigator 按钮的高度 */
+  background-color:   yellowgreen;  
+  background-size: cover; /* 背景图片覆盖整个按钮 */
+  background-position: center; /* 背景图片居中 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: green; /* 文字颜色 */
+  border-radius: 4px; /* 圆角 */
+  font-size: 18px; /* 字体大小 */
+}

@@ -1,5 +1,18 @@
-<!--pages/person/person.wxml-->
-<view class="topInformation">
-  <image class="user" src="../../images/unlogin.png" style="position: relative; left: -22rpx; top: 22rpx"></image>
-  <text style="position: relative; left: -44rpx; top: -15rpx;color: black;">未登录</text>
+<view class="container">
+  <button bindtap ="version">版本信息</button>
+
+  <view wx:if="{{version}}">
+  <text>当前版本：1.06.2405020
+  </text>
+  </view>
 </view>
+
+<view class="container">
+<button>
+    <navigator url="../person/introduction of team/team introduction" class="navigator-button" open-type="navigate">
+      <text class="button-text">关于制作团队</text>
+    </navigator>
+  </button>
+  </view>
+
+  

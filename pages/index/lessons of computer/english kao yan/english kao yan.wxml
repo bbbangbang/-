@@ -1,13 +1,17 @@
 <!--图片-->
-<image src="../../../../images/图片9.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEIQD9ihFxzfXjpsLDJyakjU8JmpCKrLJR.t*srFn5Rcs8K8aMc12q73nVYAa0lb6EJ44zmhJBrO5aNwm*FFLuAs!/mnull&bo=qwH0AAAAAAADB3w!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <!--pages/index/lessons of computer/english kao yan/english kao yan.wxml-->
 <view>
   【考研党必备！田静老师考研英语长难句每日一句合集！更新ing！学好长难句，英语得分80加！】   </view>
-<button bindtap="clickCopy" data-address="  https://www.bilibili.com/video/BV1mC4y1p7Fh/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab ">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address="  https://www.bilibili.com/video/BV1mC4y1p7Fh/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab ">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../english kao yan/e1/e1" open-type="navigate">进入课堂</navigator></button>
 
 <!--图片-->
-<image src="../../../../images/图片10.png"style="height:400rpx;width:100%"></image>
+<image src="http://m.qpic.cn/psc?/V541ojcR2vTLqo25ayZy4RldbC09ucal/TmEUgtj9EK6.7V8ajmQrEBIMVEaYdiMMcBnj7Hyqqox92uM*GzZWWz3ej.s9JLuV9Yxf2Y5j*hFIegCYojoLdNUiO9kukTDYgVr43lshg*k!/mnull&bo=rAHtAAAAAAADB2I!&rf=photolist&t=5"style="height:400rpx;width:100%"></image>
 <view>
   【能救命的考研英语阅读长难句方法论】    </view>
-<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1H64y1679G/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab ">点击复制</button>
+<button size="mini" class="copy-button" bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1H64y1679G/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab ">点击复制</button>
+
+<button size="mini" class="copy-button"><navigator url="../english kao yan/e2/e2" open-type="navigate">进入课堂</navigator></button>
 

@@ -1,0 +1,16 @@
+<!--pages/blwz/blwz.wxml-->
+<view class="container0">
+  <view>
+    <text style="color:#000;">本科教务系统：http://newjwxt.bjfu.edu.cn</text></view>
+  <view>
+    <text style="color:#000;">数字北林：https://i.bjfu.edu.cn</text></view>
+  <view>
+    <text style="color:#000;">图书馆：https://lib.bjfu.edu.cn</text></view>
+  <view>
+    <text style="color:#000;">教学平台：http://jxpt.bjfu.edu.cn/meol/index.do</text></view>
+  <view>
+    <text style="color:#000;">校园网登录：http://login.bjfu.edu.cn</text></view>
+  <view>
+    <text style="color:#000;">VPN：https://vpn1.bjfu.edu.cn</text></view>
+
+</view>

@@ -1,2 +1,15 @@
 <!--pages/医学/医学.wxml-->
-<text>pages/医学/医学.wxml</text>
+<view class="container">
+    <view wx:for="{{sites}}" wx:key="index" class="site-item">
+        <!-- 网站图标 -->
+        <image class="site-icon" mode="aspectFit" src="{{item.iconUrl}}"></image>
+        <!-- 网站名称 -->
+        <view class="site-name">{{item.name}}</view>
+        <!-- 复制按钮 -->
+        <button class="copy-button" data-url="{{item.url}}" bindtap="copyUrl">复制链接</button>
+        <!-- 跳转按钮 -->
+        <navigator url="{{item.pagePath}}" open-type="navigate">
+            <button class="jump-button">打开网站</button>
+        </navigator>
+    </view>
+</view>
