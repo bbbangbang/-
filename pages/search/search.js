@@ -1,88 +1,49 @@
-// pages/search/search.js
 Page({
-
-  /**
-   * 页面的初始数据
-   */
   data: {
-    query: '',
-    results: []
+    keyword: '', // 存储用户输入的关键词
+    resultList: [] // 存储服务器返回的结果列表
   },
 
-  onInput: function(e) {
+  // 更新输入框的值
+  onInputChange: function(e) {
     this.setData({
-      query: e.detail.value
+      keyword: e.detail.value
     });
   },
 
+  // 处理搜索请求
   onSearch: function() {
-    const query = this.data.query;
+    const that = this;
+    if (!this.data.keyword) {
+      wx.showToast({
+        title: '请输入关键词',
+        icon: 'none'
+      });
+      return;
+    }
+
     wx.request({
-      url: 'http://yilunlink.com:5000/search',
-      data: { query },
-      success: (res) => {
-        this.setData({
-          results: res.data
+      url: 'http://152.136.174.182:5000/search', // 你的服务器URL
+      method: 'POST',
+      header: {
+        'Content-Type': 'application/json' // 确保使用正确的Content-Type
+      },
+      data: JSON.stringify({
+        query: this.data.keyword
+      }),
+      success: function(res) {
+        console.log('Response:', res.data);
+        that.setData({
+          resultList: res.data // 假设服务器返回的是一个包含标题和URL的列表
+        });
+      },
+      fail: function(error) {
+        console.error('Request failed', error);
+        wx.showToast({
+          title: '请求失败: ' + error.errMsg,
+          icon: 'none'
         });
       }
     });
-  },
-
-
-
-  /**
-   * 生命周期函数--监听页面加载
-   */
-  onLoad(options) {
-
-  },
-
-  /**
-   * 生命周期函数--监听页面初次渲染完成
-   */
-  onReady() {
-
-  },
-
-  /**
-   * 生命周期函数--监听页面显示
-   */
-  onShow() {
-
-  },
-
-  /**
-   * 生命周期函数--监听页面隐藏
-   */
-  onHide() {
-
-  },
-
-  /**
-   * 生命周期函数--监听页面卸载
-   */
-  onUnload() {
-
-  },
-
-  /**
-   * 页面相关事件处理函数--监听用户下拉动作
-   */
-  onPullDownRefresh() {
-
-  },
-
-  /**
-   * 页面上拉触底事件的处理函数
-   */
-  onReachBottom() {
-
-  },
-
-  /**
-   * 用户点击右上角分享
-   */
-  onShareAppMessage() {
-
   }
-})
+});

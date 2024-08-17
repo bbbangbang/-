@@ -1,24 +1,38 @@
-/* pages/search/search.wxss */
 .container {
   padding: 20px;
 }
 
 input {
-  width: 80%;
+  width: 100%;
   padding: 10px;
-  margin-right: 10px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
 
 button {
-  padding: 10px 20px;
-  background-color: #1AAD19;
+  width: 100%;
+  padding: 10px;
+  background-color: #1aad19;
   color: white;
   border: none;
-  border-radius: 4px;
+  border-radius: 5px;
 }
 
-.result {
+.result-list {
   margin-top: 20px;
+}
+
+.result-item {
+  margin-bottom: 15px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.url {
+  color: #888;
+  font-size: 14px;
+  margin-top: 5px;
 }

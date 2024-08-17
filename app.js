@@ -17,7 +17,7 @@ App({
         if (res.code) {
           // 发送 res.code 到后台换取 openid 和 session_key
           wx.request({
-            url: 'https://yilunlink.com', // 后端服务器地址
+            url: '', // 后端服务器地址
             method: 'POST',
             data: {
               code: res.code

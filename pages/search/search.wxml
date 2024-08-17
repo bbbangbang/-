@@ -1,13 +1,18 @@
-<!--pages/search/search.wxml-->
 <view class="container">
-  <input placeholder="搜索" bindinput="onInput"/>
+  <!-- 搜索框 -->
+  <input type="text" placeholder="输入关键词" bindinput="onInputChange" />
+
+  <!-- 搜索按钮 -->
   <button bindtap="onSearch">搜索</button>
-  <view>
-    <block wx:for="{{results}}" wx:key="index">
-      <view>
-        <text>{{item.title}}</text>
-        <navigator url="{{item.link}}">{{item.link}}</navigator>
+
+  <!-- 展示搜索结果 -->
+  <view class="result-list">
+    <block wx:for="{{resultList}}" wx:key="title">
+      <view class="result-item">
+        <text class="title">{{item.title}}</text>
+        <text class="url">{{item.url}}</text>
       </view>
     </block>
   </view>
 </view>
+

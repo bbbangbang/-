@@ -28,9 +28,3 @@
       <text class="button-text">延伸文献搜索</text>
     </navigator>
   </view>
-
-  <view class="center-container">
-    <navigator url="../index/lessons of computer/lessons of compter" class="navigator-button" open-type="navigate">
-      <text class="button-text">计算机专业相关课程</text>
-    </navigator>
-  </view>

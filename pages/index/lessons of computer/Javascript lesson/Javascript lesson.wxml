@@ -1,7 +1,0 @@
-<!--pages/index/lessons of computer/Javascript lesson/Javascript lesson.wxml-->
-
-<view>【黑马程序员JavaScript全套教程，Web前端必学的JS入门教程，零基础JavaScript入门】 </view>
-<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1ux411d75J/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>
-
-<view>\n【黑马程序员前端JavaScript入门到精通全套视频教程，javascript核心进阶ES6语法、API、js高级等基础知识和实战教程】  </view>
-<button bindtap="clickCopy" data-address="https://www.bilibili.com/video/BV1Y84y1L7Nn/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab">点击复制</button>

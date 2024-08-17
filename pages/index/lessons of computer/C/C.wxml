@@ -1,6 +1,0 @@
-<!--pages/index/lessons of computer/C/C.wxml-->
-<view>
-  1、翁恺C语言
-【浙江大学翁恺教你C语言程序设计！C语言基础入门！】  </view>
-<button bindtap="clickCopy" data-address=" https://www.bilibili.com/video/BV1dr4y1n7vA/?share_source=copy_web&vd_source=0664f113481da38678a7efe26eb384ab ">点击复制</button>
-
