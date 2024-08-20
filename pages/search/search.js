@@ -23,7 +23,7 @@ Page({
     }
 
     wx.request({
-      url: 'http://152.136.174.182:5000/search', // 你的服务器URL
+      url: 'https://yilunlink.com:443/search', // 你的服务器URL
       method: 'POST',
       header: {
         'Content-Type': 'application/json' // 确保使用正确的Content-Type
